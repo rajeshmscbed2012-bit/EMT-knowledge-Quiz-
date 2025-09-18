@@ -1,0 +1,5 @@
+{
+  "name": "EMT Genius Quiz",
+  "description": "An intelligent quiz application for Emergency Medical Technicians. It uses AI to generate questions from a knowledge base, allowing users to test their skills with various topics, question types, and difficulty levels.",
+  "requestFramePermissions": []
+}
